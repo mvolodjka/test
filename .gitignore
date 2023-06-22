@@ -1,0 +1,33 @@
+# Ignore WordPress core files
+wp-admin/
+wp-includes/
+wp-config.php
+
+# Ignore WordPress plugins and themes
+wp-content/plugins/
+wp-content/themes/
+
+# Ignore WordPress uploads
+wp-content/uploads/
+
+# Ignore WordPress cache
+wp-content/cache/
+
+# Ignore WordPress logs
+wp-content/debug.log
+
+# Ignore other WordPress files
+.htaccess
+license.txt
+readme.html
+sitemap.xml
+
+# Ignore development files and directories
+node_modules/
+npm-debug.log
+yarn-error.log
+Gruntfile.js
+gulpfile.js
+package.json
+package-lock.json
+webpack.config.js
